@@ -1,0 +1,45 @@
+{
+  "name": "@roborox/react-native-iad",
+  "title": "React Native iAd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "source": "index.ts",
+  "description": "Fetch apple ads attribution",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "ios",
+    "android",
+    "package.json",
+    "index.js",
+    "react-native-iad.podspec",
+    "README.md",
+    "index.d.ts",
+    "index.ts"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react-native",
+    "apple ads attribution"
+  ],
+  "author": {
+    "url": "https://roborox.org",
+    "email": "hello@roborox.org",
+    "name": "roborox.org"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react-native": ">= 0.61.5"
+  },
+  "devDependencies": {
+    "@types/react-native": "0.61.23",
+    "react-native": "0.61.5",
+    "typescript": "3.8.3"
+  }
+}
