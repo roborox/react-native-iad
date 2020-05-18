@@ -56,6 +56,6 @@
     // "experimentalDecorators": true         /* Enables experimental support for decorators */
     // "emitDecoratorMetadata": true,         /* Enables experimental support for emitting type metadata for decorators. */
   },
-  "include": ["index.ts"],                    /* Include while compiling & checking */
+  "include": ["index.ts", "mock.ts"],                    /* Include while compiling & checking */
   "exclude": ["node_modules"]                 /* Exclude from compiling & checking */
 } 

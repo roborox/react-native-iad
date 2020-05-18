@@ -11,13 +11,13 @@
   },
   "files": [
     "ios",
-    "android",
     "package.json",
     "index.js",
-    "react-native-iad.podspec",
-    "README.md",
     "index.d.ts",
-    "index.ts"
+    "mock.d.ts",
+    "mock.js",
+    "README.md",
+    "react-native-iad.podspec"
   ],
   "publishConfig": {
     "access": "public"
